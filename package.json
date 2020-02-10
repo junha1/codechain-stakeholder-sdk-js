@@ -38,8 +38,5 @@
     "tslint": "^5.12.1",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.3.3"
-  },
-  "peerDependencies": {
-    "codechain-sdk": "https://github.com/junha1/codechain-sdk-js#master"
   }
 }
